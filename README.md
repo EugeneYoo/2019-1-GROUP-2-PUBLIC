@@ -1,6 +1,6 @@
 # Who will eat Pizza In Do-Bong Gu ?
 #### PROJECT DESCRIPTION
- - We're trying to find out how to attract customer for each (Chicken, Pizza, Chinese Food) Using [Data](https://github.com/philjjoon/2019-1-GROUP-2/tree/master/storage) (Order Information, Populations of each Location, Store population )
+ - We're trying to find out how to attract customer for each (Chicken, Pizza, Chinese Food) Using [Data](https://github.com/philjjoon/2019-1-GROUP-2/tree/master/storage)(Order Information, Populations of each Location, Store population ) - see Also [Acquisition](https://github.com/philjjoon/2019-1-GROUP-2/tree/master/acquisition)  
 
  - this Project is implemented with Spark, Hadoop(HDFS), Zeppeline
 
