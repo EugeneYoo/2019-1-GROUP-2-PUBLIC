@@ -42,10 +42,10 @@ $ ./start-slave.sh spark://master:7077
 
 ```
 3. Run Zeppelin Server - [Details](https://github.com/philjjoon/2019-1-GROUP-2/issues/5)
+>> default Port for Zeppelin is 8080
 
 ```
 $ cd $ZEPPELIN_HOME/bin/
 $ ./zeppelin-daemon.sh start
 ```
-
 Please Let me know If you have Any Questions.
