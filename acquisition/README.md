@@ -1,6 +1,6 @@
 ### Acquisition
-  - [Acquisition Site](####Acquisition Site)
-  - [Preprocessing Code](####Preprocessing Code)
+  - [Acquisition Site]
+  - [Preprocessing Code]
   
 #### Acquisition Site
   1. Chicken/Pizza/Chinese-food data were searched from
