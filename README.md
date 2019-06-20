@@ -1,4 +1,6 @@
 # Who will eat Pizza In Do-Bong Gu ?
+
+![Main UI](/captures/CommonUI/main_1.png)
 ### PROJECT DESCRIPTION
  - We're trying to find out how to attract customer for each (Chicken, Pizza, Chinese Food) Using [Data](https://github.com/philjjoon/2019-1-GROUP-2/tree/master/storage)(Order Information, Populations of each Location, Store population ) - see Also [Acquisition](https://github.com/philjjoon/2019-1-GROUP-2/tree/master/acquisition)  
 
