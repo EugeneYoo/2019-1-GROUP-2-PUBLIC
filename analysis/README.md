@@ -57,11 +57,11 @@
 * get total Orders and number of Store region by region
 * compute total Orders divided by number of store 
 * join with coordinate information data
-![step1](/captures/CodeCapture/14_yy_selectForm.JPG)
+![step1](/captures/CodeCapture/14_yy.JPG)
 ![step1](/captures/CodeCapture/16_yy.JPG)
 
 * this is same code but with pyspark SQL 
-![step1](/captures/CodeCapture/25.JPG)
+![step1](/captures/CodeCapture/25.png)
 
 #### draw blockmap 
 ![step1](/captures/CodeCapture/17_yy.JPG)
