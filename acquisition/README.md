@@ -19,5 +19,7 @@
 #### Preprocessing Code
 
 transform.py
+
 >Merge monthly information(chicken/pizza/chinese-food data) into yearly information.
+
 >Convert encoding type of data from cp949 to utf-8
