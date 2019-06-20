@@ -1,7 +1,7 @@
 ### Configurations 
-  - [Spark](####Spark)
-  - [Zeppelin](####Zeppelin)
-  - [Hadoop](####Hadoop)
+  - [Spark](#Spark)
+  - [Zeppelin](#Zeppelin)
+  - [Hadoop](#Hadoop)
   
 #### Spark
   1. Move File into $SPARK_HOME/conf/
