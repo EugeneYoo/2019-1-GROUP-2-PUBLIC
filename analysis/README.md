@@ -44,4 +44,8 @@
 #### Show Chart by Zeppelin
 ![step1](/captures/CodeCapture/7_daily_hydashboard.JPG)
 
+### DashBoard 3 : Orders by day_of_week, gender, age
 
+### DashBoard 4 : BlockMap showing how hot competition is
+
+### DashBoard 5 : Orders of selected age and gender by day_of_week
