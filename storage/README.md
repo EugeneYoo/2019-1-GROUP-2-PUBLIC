@@ -1,17 +1,17 @@
 ### Data Information
 
-#### Order Information List
+#### 1. Order Information List
 - Chicken
 - Chinese
 - Pizza
-#### Population Information
-#### Store Information
-#### BlockMap_Axis Data (out.csv)
+#### 2. Population Information
+#### 3. Store Information
+#### 4. BlockMap_Axis Data (out.csv)
 
 
 --------------------
 
-#### Chicken, Chinese, Pizza
+#### Order Information List
 - It has 2014 ~ 2019 Data
 - csv Doesn't include Headers so you Should set yourself
 - Data Properties
