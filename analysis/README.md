@@ -44,8 +44,39 @@
 #### Show Chart by Zeppelin
 ![step1](/captures/CodeCapture/7_daily_hydashboard.JPG)
 
+
 ### DashBoard 3 : Orders by day_of_week, gender, age
 
+
 ### DashBoard 4 : BlockMap showing how hot competition is
+#### Select options (store_type)
+![step1](/captures/CodeCapture/15_yy_selectForm.JPG)
+
+#### Spark Processing
+* get dataframe
+* get total Orders and number of Store region by region
+* compute total Orders divided by number of store 
+* join with coordinate information data
+![step1](/captures/CodeCapture/14_yy_selectForm.JPG)
+![step1](/captures/CodeCapture/16_yy.JPG)
+
+* this is same code but with pyspark SQL 
+![step1](/captures/CodeCapture/25.JPG)
+
+#### draw blockmap 
+![step1](/captures/CodeCapture/17_yy.JPG)
+![step1](/captures/CodeCapture/19blockmap.PNG)
+
 
 ### DashBoard 5 : Orders of selected age and gender by day_of_week
+#### Select options (region, store_type, age)
+![step1](/captures/CodeCapture/20.PNG)
+
+#### Spark Processing
+* filter rows using selected options
+* sort by day of week
+![step1](/captures/CodeCapture/21.PNG)
+![step1](/captures/CodeCapture/22.PNG)
+
+#### Show Chart by Zeppelin
+![step1](/captures/CodeCapture/23.PNG)
