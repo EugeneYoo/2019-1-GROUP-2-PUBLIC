@@ -25,6 +25,21 @@
 ![step1](/captures/CodeCapture/2_dataload.jpg)
 
 ### DashBoard 1 : Population Map
+#### Select options (Gender, Ages)
+![step1](/captures/CodeCapture/3_selectForm.JPG)
+
+#### Spark processing
+* Get User Selected Options ( Gender, Ages )
+* Create Location information For Circls in the Map 
+* Join Gender/Age - Population with LatLang Information
+![step2](/captures/CodeCapture/jmCapture_angular.JPG)
+
+#### Angular Visualization
+* Get Joined Rows from Spark Coded above
+* Drawing maps with Population Data On Maps
+* Leaflet, D3 is Used to implement
+![step3](/captures/CodeCapture/jmCapture_spark.png)
+
 
 
 ### DashBoard 2 : Orders Comparison to Other regions
@@ -37,6 +52,8 @@
 * compute average of Orders in five regions <br>
 * make dataframe which has (Date, Average Order of other regions, Order of selected region) Column <br>
 ![step1](/captures/CodeCapture/8_daily_hydashboard.JPG)
+
+
 
 #### Select Specific options (start date, end date, Daily/Monthly view)
 ![step1](/captures/CodeCapture/5_selectForm.JPG)
