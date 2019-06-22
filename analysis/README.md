@@ -63,16 +63,15 @@
 
 
 ### DashBoard 3 : Orders by day_of_week, gender, age
-#### Select options (store_type)
+#### Select options (region, store_type, start date, end date)
 ![step1](/captures/CodeCapture/10(1).JPG)
 
 #### Spark Processing
 * get dataframe and choose concatenation of data by selecting
 * make day order by SMTWTFS for visualization of bar chart
-* calculate the sum of the orders by day of the week
-* calculate the sum of the orders for each gender during the period.
-* calculate the sum of the orders by age group during the period.
-* 'KS_SQL.json' is same code but with pyspark SQL
+* calculate the sum of the orders by day of the week, for each gender, by age group during the period
+* this is same code but with pyspark SQL 
+![step1](/captures/CodeCapture/24.png)
 
 ### draw bar chart - day of week / age group / gender
 ![step1](/captures/CodeCapture/11_dayOfWeek.JPG)
@@ -82,9 +81,7 @@
 ### make sentence by using key point
 * sort result by sum of order
 * extract keyword (the most sold day, the sex to buy more, and the age to purchase more)
-
-* this is same code but with pyspark SQL 
-![step1](/captures/CodeCapture/24.png)
+![step1](/captures/CodeCapture/13_keypointSentence.JPG)
 
 ### DashBoard 4 : BlockMap showing how hot competition is
 #### Select options (store_type)
