@@ -69,16 +69,17 @@
 #### Spark Processing
 * get dataframe and choose concatenation of data by selecting
 * make day order by SMTWTFS for visualization of bar chart
-* calculate the sum of the orders by day of the week, for each gender, by age group during the period
+* calculate the sum of the orders by day of the week, gender, age group during the period
+
 * this is same code but with pyspark SQL 
 ![step1](/captures/CodeCapture/24.png)
 
-### draw bar chart - day of week / age group / gender
+#### draw bar chart - day of week / age group / gender
 ![step1](/captures/CodeCapture/11_dayOfWeek.JPG)
 ![step1](/captures/CodeCapture/12_age.JPG)
 ![step1](/captures/CodeCapture/12_gender.JPG)
 
-### make sentence by using key point
+#### make sentence by using key point
 * sort result by sum of order
 * extract keyword (the most sold day, the sex to buy more, and the age to purchase more)
 ![step1](/captures/CodeCapture/13_keypointSentence.JPG)
