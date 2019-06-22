@@ -82,8 +82,9 @@
 ### make sentence by using key point
 * sort result by sum of order
 * extract keyword (the most sold day, the sex to buy more, and the age to purchase more)
-* make 1 sentence by using keyword and print it
-![step1](/captures/CodeCapture/13_keypointSentence.JPG)
+
+* this is same code but with pyspark SQL 
+![step1](/captures/CodeCapture/24.png)
 
 ### DashBoard 4 : BlockMap showing how hot competition is
 #### Select options (store_type)
