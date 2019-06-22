@@ -79,7 +79,7 @@
 ![step1](/captures/CodeCapture/12_age.JPG)
 ![step1](/captures/CodeCapture/12_gender.JPG)
 
-### make sentence by using key point, and print it
+### make sentence by using key point
 * sort result by sum of order
 * extract keyword (the most sold day, the sex to buy more, and the age to purchase more)
 * make 1 sentence by using keyword and print it
