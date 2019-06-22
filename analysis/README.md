@@ -72,19 +72,17 @@
 * calculate the sum of the orders by day of the week
 * calculate the sum of the orders for each gender during the period.
 * calculate the sum of the orders by age group during the period.
+* 'KS_SQL.json' is same code but with pyspark SQL
 
-* this is same code but with pyspark SQL
-
-### draw bar chart - day of week
+### draw bar chart - day of week / age group / gender
 ![step1](/captures/CodeCapture/11_dayOfWeek.JPG)
-
-### draw bar chart - day of week
 ![step1](/captures/CodeCapture/12_age.JPG)
-
-### draw bar chart - day of week
 ![step1](/captures/CodeCapture/12_gender.JPG)
 
 ### make sentence by using key point, and print it
+* sort result by sum of order
+* extract keyword (the most sold day, the sex to buy more, and the age to purchase more)
+* make 1 sentence by using keyword and print it
 ![step1](/captures/CodeCapture/13_keypointSentence.JPG)
 
 ### DashBoard 4 : BlockMap showing how hot competition is
